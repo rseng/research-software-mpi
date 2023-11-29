@@ -1,0 +1,222 @@
+{
+    "3dem/relion": {
+        "createdAt": "2017-01-26T15:21:11Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2015-02-09T13:39:31Z"
+    },
+    "AFD-Illinois/grim": {
+        "createdAt": "2013-09-15T06:00:11Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2013-08-21T03:51:25Z"
+    },
+    "AMReX-Combustion/PeleLMeX": {
+        "createdAt": "2021-03-05T00:56:50Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2021-02-10T04:33:56Z"
+    },
+    "AstroUGent/shadowfax": {
+        "createdAt": "2015-12-15T09:29:50Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2015-12-16T08:16:38Z"
+    },
+    "BenoitMorel/ParGenes": {
+        "createdAt": "2018-01-13T10:58:27Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2018-02-08T10:04:45Z"
+    },
+    "DessimozLab/OMArk": {
+        "createdAt": "2021-09-27T08:08:54Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2020-12-08T10:51:02Z"
+    },
+    "Illumina/ExpansionHunterDenovo": {
+        "createdAt": "2019-08-22T22:02:44Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2019-09-09T21:49:13Z"
+    },
+    "NBISweden/MrBayes": {
+        "createdAt": "2016-04-06T11:59:34Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2010-01-07T14:25:00Z"
+    },
+    "NorESMhub/NorESM": {
+        "createdAt": "2018-12-15T22:57:59Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2018-12-15T22:57:04Z"
+    },
+    "OpenFOAM/OpenFOAM-dev": {
+        "createdAt": "2014-12-10T15:47:33Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2014-12-10T15:50:51Z"
+    },
+    "PhaseTracer/PhaseTracer": {
+        "createdAt": "2020-03-04T03:13:52Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2020-03-04T03:27:30Z"
+    },
+    "RomainFeron/mwga-utils": {
+        "createdAt": "2019-12-04T10:41:51Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2019-03-14T16:35:14Z"
+    },
+    "STEllAR-GROUP/octotiger": {
+        "createdAt": "2016-11-12T02:30:19Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2015-09-16T17:17:11Z"
+    },
+    "SimVascular/svSolver": {
+        "createdAt": "2016-09-16T20:13:40Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2015-04-28T17:47:19Z"
+    },
+    "TheBrownLab/PhyloFisher": {
+        "createdAt": "2020-04-28T14:56:44Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2019-05-15T18:44:30Z"
+    },
+    "ViriatoII/MindaGap": {
+        "createdAt": "2022-08-15T16:01:16Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2022-08-15T16:01:17Z"
+    },
+    "amkozlov/raxml-ng": {
+        "createdAt": "2016-12-08T15:06:08Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2016-12-08T15:06:08Z"
+    },
+    "artis-mcrt/artis": {
+        "createdAt": "2013-07-09T10:25:23Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2012-07-30T11:26:27Z"
+    },
+    "astroboylrx/PLAN": {
+        "createdAt": "2016-03-11T17:40:38Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2016-03-11T17:40:38Z"
+    },
+    "bayesiancook/pbmpi": {
+        "createdAt": "2014-11-13T14:24:50Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2014-11-13T14:24:50Z"
+    },
+    "bbercovici/SBGAT": {
+        "createdAt": "2016-08-01T19:38:47Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2016-08-01T19:40:45Z"
+    },
+    "bcgsc/transabyss": {
+        "createdAt": "2014-07-08T17:42:46Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2014-07-18T20:07:27Z"
+    },
+    "bschiffthaler/seidr": {
+        "createdAt": "2018-05-02T19:44:44Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2018-05-02T19:47:47Z"
+    },
+    "bwvdnbro/CMacIonize": {
+        "createdAt": "2016-09-12T19:33:06Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2016-09-12T19:33:07Z"
+    },
+    "bxlab/hifive": {
+        "createdAt": "2015-03-27T17:55:50Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2014-04-26T15:13:10Z"
+    },
+    "casacore/casacore": {
+        "createdAt": "2015-03-31T06:27:52Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "1997-02-20T01:07:29Z"
+    },
+    "davidemms/OrthoFinder": {
+        "createdAt": "2015-06-29T09:03:34Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2015-06-29T09:03:34Z"
+    },
+    "ddarriba/modeltest": {
+        "createdAt": "2015-08-13T18:05:39Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2015-08-13T18:05:39Z"
+    },
+    "dereneaton/ipyrad": {
+        "createdAt": "2015-10-07T16:50:52Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2015-10-07T16:51:56Z"
+    },
+    "domschrei/mallob": {
+        "createdAt": "2019-10-02T09:23:31Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2019-10-02T09:38:21Z"
+    },
+    "exoclime/Helios-r2": {
+        "createdAt": "2020-01-16T10:05:37Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2020-01-16T10:05:38Z"
+    },
+    "hallamlab/TreeSAPP": {
+        "createdAt": "2013-09-21T18:36:10Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2013-09-21T18:36:10Z"
+    },
+    "idefix-code/idefix": {
+        "createdAt": "2023-01-22T08:31:28Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2020-02-04T14:46:54Z"
+    },
+    "introlab/rtabmap": {
+        "createdAt": "2014-08-11T18:38:14Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2011-02-17T01:47:00Z"
+    },
+    "jasminezhoulab/Hi-Corrector": {
+        "createdAt": "2019-10-28T13:44:44Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2019-10-28T13:44:45Z"
+    },
+    "jodyhey/IMa3": {
+        "createdAt": "2017-11-10T21:49:46Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2018-02-12T15:47:57Z"
+    },
+    "madebr/pyOpt": {
+        "createdAt": "2015-12-16T22:50:31Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2011-02-25T21:37:20Z"
+    },
+    "muon-spectroscopy-computational-project/muspinsim": {
+        "createdAt": "2021-01-18T10:59:14Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2021-01-18T10:59:16Z"
+    },
+    "nickjcroucher/gubbins": {
+        "createdAt": "2011-11-01T12:41:33Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2011-11-01T12:42:01Z"
+    },
+    "revbayes/revbayes": {
+        "createdAt": "2019-12-02T19:40:26Z",
+        "initBeforeGitHubRepo": false,
+        "firstCommitAt": "2019-12-02T20:20:51Z"
+    },
+    "saccharis/SACCHARIS_2": {
+        "createdAt": "2022-08-16T23:15:57Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2022-08-16T23:15:57Z"
+    },
+    "stephaneguindon/phyml": {
+        "createdAt": "2014-09-15T00:57:10Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2014-09-15T00:57:10Z"
+    },
+    "torognes/swipe": {
+        "createdAt": "2012-11-10T12:09:19Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2012-11-10T12:09:19Z"
+    },
+    "treangenlab/komb": {
+        "createdAt": "2023-04-24T15:58:20Z",
+        "initBeforeGitHubRepo": true,
+        "firstCommitAt": "2019-08-21T18:57:13Z"
+    }
+}

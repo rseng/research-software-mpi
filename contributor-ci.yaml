@@ -1,0 +1,53 @@
+# The output directory to create a structure of results
+# defaults to $PWD/.cci if not set
+outdir:
+
+member_orgs: []
+orgs: []
+
+# Additional repos to add to the set (possibly not under an org above)
+repos:
+- 3dem/relion
+- jasminezhoulab/Hi-Corrector
+- bxlab/hifive
+- dereneaton/ipyrad
+- jodyhey/IMa3
+- amkozlov/raxml-ng
+- nickjcroucher/gubbins
+- introlab/rtabmap
+- treangenlab/komb
+- ViriatoII/MindaGap
+- ddarriba/modeltest
+- NBISweden/MrBayes
+- revbayes/revbayes
+- muon-spectroscopy-computational-project/muspinsim
+- NorESMhub/NorESM
+- DessimozLab/OMArk
+- davidemms/OrthoFinder
+- BenoitMorel/ParGenes
+- bayesiancook/pbmpi
+- TheBrownLab/PhyloFisher
+- stephaneguindon/phyml
+- madebr/pyOpt
+- saccharis/SACCHARIS_2
+- bschiffthaler/seidr
+- SimVascular/svSolver
+- torognes/swipe
+- bcgsc/transabyss
+- hallamlab/TreeSAPP
+- OpenFOAM/OpenFOAM-dev
+- AMReX-Combustion/PeleLMeX
+- AstroUGent/shadowfax
+- Illumina/ExpansionHunterDenovo
+- PhaseTracer/PhaseTracer
+- RomainFeron/mwga-utils
+- STEllAR-GROUP/octotiger
+- AFD-Illinois/grim
+- artis-mcrt/artis
+- astroboylrx/PLAN
+- bbercovici/SBGAT
+- bwvdnbro/CMacIonize
+- casacore/casacore
+- domschrei/mallob
+- exoclime/Helios-r2
+- idefix-code/idefix

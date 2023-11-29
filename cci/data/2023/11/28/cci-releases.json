@@ -1,0 +1,2106 @@
+{
+    "3dem/relion": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "4.0.1",
+                    "publishedAt": "2023-03-06T05:38:42Z",
+                    "tagName": "4.0.1"
+                },
+                {
+                    "name": "4.0.0",
+                    "publishedAt": "2022-09-28T09:45:52Z",
+                    "tagName": "4.0.0"
+                },
+                {
+                    "name": "3.1.4",
+                    "publishedAt": "2022-09-28T01:18:01Z",
+                    "tagName": "3.1.4"
+                },
+                {
+                    "name": "3.1.3",
+                    "publishedAt": "2021-08-31T10:31:38Z",
+                    "tagName": "3.1.3"
+                },
+                {
+                    "name": "3.1.2",
+                    "publishedAt": "2021-03-04T10:45:33Z",
+                    "tagName": "3.1.2"
+                },
+                {
+                    "name": "3.1.1",
+                    "publishedAt": "2020-11-05T18:24:24Z",
+                    "tagName": "3.1.1"
+                },
+                {
+                    "name": "3.1.0",
+                    "publishedAt": "2020-07-03T17:30:58Z",
+                    "tagName": "3.1.0"
+                },
+                {
+                    "name": "Release 3.0.8",
+                    "publishedAt": "2019-10-14T16:10:38Z",
+                    "tagName": "3.0.8"
+                },
+                {
+                    "name": "Release 3.0.7",
+                    "publishedAt": "2019-07-02T10:09:04Z",
+                    "tagName": "3.0.7"
+                },
+                {
+                    "name": "Release 3.0.6",
+                    "publishedAt": "2019-06-07T10:10:53Z",
+                    "tagName": "3.0.6"
+                },
+                {
+                    "name": "Release 3.0.5",
+                    "publishedAt": "2019-05-07T10:59:17Z",
+                    "tagName": "3.0.5"
+                },
+                {
+                    "name": "Release 3.0.4",
+                    "publishedAt": "2019-04-03T10:51:50Z",
+                    "tagName": "3.0.4"
+                },
+                {
+                    "name": "Release 3.0.3",
+                    "publishedAt": "2019-03-22T16:34:09Z",
+                    "tagName": "3.0.3"
+                },
+                {
+                    "name": "Release 3.0.2",
+                    "publishedAt": "2019-03-13T14:56:56Z",
+                    "tagName": "3.0.2"
+                },
+                {
+                    "name": "Release 3.0.1",
+                    "publishedAt": "2019-03-11T15:56:39Z",
+                    "tagName": "3.0.1"
+                },
+                {
+                    "name": "2.1 Stable",
+                    "publishedAt": "2017-12-15T13:03:44Z",
+                    "tagName": "2.1"
+                },
+                {
+                    "name": "2.1.b1",
+                    "publishedAt": "2017-08-17T15:21:49Z",
+                    "tagName": "2.1.b1"
+                },
+                {
+                    "name": "Stable",
+                    "publishedAt": "2017-01-27T15:26:42Z",
+                    "tagName": "2.0.3"
+                }
+            ]
+        }
+    },
+    "AFD-Illinois/grim": {
+        "releases": {
+            "nodes": []
+        }
+    },
+    "AMReX-Combustion/PeleLMeX": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "PeleLMeX 23.11",
+                    "publishedAt": "2023-10-30T20:18:55Z",
+                    "tagName": "v23.11"
+                },
+                {
+                    "name": "PeleLMeX 23.05",
+                    "publishedAt": "2023-05-01T20:35:23Z",
+                    "tagName": "v23.05"
+                },
+                {
+                    "name": "PeleLMeX 23.03",
+                    "publishedAt": "2023-03-01T19:43:33Z",
+                    "tagName": "v23.03"
+                },
+                {
+                    "name": "PeleLMeX 23.02",
+                    "publishedAt": "2023-02-01T18:33:50Z",
+                    "tagName": "v23.02"
+                },
+                {
+                    "name": "PeleLMeX 23.01",
+                    "publishedAt": "2023-01-04T00:14:29Z",
+                    "tagName": "v23.01"
+                },
+                {
+                    "name": "PeleLMeX 22.12",
+                    "publishedAt": "2022-12-03T00:11:39Z",
+                    "tagName": "v22.12"
+                },
+                {
+                    "name": "PeleLMeX 22.09",
+                    "publishedAt": "2022-09-06T17:38:04Z",
+                    "tagName": "v22.09"
+                },
+                {
+                    "name": "PeleLMeX 22.08",
+                    "publishedAt": "2022-08-01T23:02:37Z",
+                    "tagName": "v22.08"
+                },
+                {
+                    "name": "PeleLMeX 22.07",
+                    "publishedAt": "2022-07-01T18:34:24Z",
+                    "tagName": "v22.07"
+                },
+                {
+                    "name": "November 2021",
+                    "publishedAt": "2021-11-04T19:09:34Z",
+                    "tagName": "v21.11"
+                },
+                {
+                    "name": "October 2021",
+                    "publishedAt": "2021-10-01T18:47:03Z",
+                    "tagName": "v21.10"
+                },
+                {
+                    "name": "June 2021",
+                    "publishedAt": "2021-06-14T21:20:39Z",
+                    "tagName": "v21.06"
+                }
+            ]
+        }
+    },
+    "AstroUGent/shadowfax": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "First attempt at sub-grid physics, shapy, extra side programs and general code cleanup.",
+                    "publishedAt": "2016-08-22T14:14:43Z",
+                    "tagName": "v1.2"
+                },
+                {
+                    "name": "Improved first version",
+                    "publishedAt": "2016-05-18T09:41:30Z",
+                    "tagName": "v1.1"
+                },
+                {
+                    "name": "First version",
+                    "publishedAt": "2015-12-16T08:25:06Z",
+                    "tagName": "v1.0"
+                }
+            ]
+        }
+    },
+    "BenoitMorel/ParGenes": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "Bioconda linux support",
+                    "publishedAt": "2020-12-23T18:58:36Z",
+                    "tagName": "v1.2.0"
+                },
+                {
+                    "name": "ParGenes v1.1.2",
+                    "publishedAt": "2020-06-17T20:56:04Z",
+                    "tagName": "v1.1.2"
+                },
+                {
+                    "name": " ParGenes v.1.1.1",
+                    "publishedAt": "2020-03-10T10:47:10Z",
+                    "tagName": "v.1.1.1"
+                },
+                {
+                    "name": "ParGenes v.1.1.0",
+                    "publishedAt": "2019-09-11T11:22:00Z",
+                    "tagName": "1.1.0"
+                },
+                {
+                    "name": "ParGenes v.1.0.1",
+                    "publishedAt": "2018-08-15T13:11:58Z",
+                    "tagName": "v.1.0.1"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2018-08-03T09:37:59Z",
+                    "tagName": "v.1.0.0"
+                }
+            ]
+        }
+    },
+    "DessimozLab/OMArk": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "v0.3.0",
+                    "publishedAt": "2023-10-18T14:50:52Z",
+                    "tagName": "v0.3.0"
+                },
+                {
+                    "name": "v0.2.5",
+                    "publishedAt": "2023-02-28T12:57:58Z",
+                    "tagName": "v0.2.5"
+                },
+                {
+                    "name": "v0.2.4",
+                    "publishedAt": "2023-02-23T16:54:38Z",
+                    "tagName": "v0.2.4"
+                },
+                {
+                    "name": "v0.2.3",
+                    "publishedAt": "2023-02-10T08:38:43Z",
+                    "tagName": "v0.2.3"
+                },
+                {
+                    "name": "v0.2.2",
+                    "publishedAt": "2022-10-12T05:00:36Z",
+                    "tagName": "v0.2.2"
+                },
+                {
+                    "name": "v0.2.1",
+                    "publishedAt": "2022-08-16T15:20:49Z",
+                    "tagName": "v0.2.1"
+                },
+                {
+                    "name": "v0.2.0",
+                    "publishedAt": "2022-07-06T17:02:19Z",
+                    "tagName": "v0.2.0"
+                }
+            ]
+        }
+    },
+    "Illumina/ExpansionHunterDenovo": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "ExpansionHunterDenovo-v0.9.0",
+                    "publishedAt": "2020-03-04T05:34:28Z",
+                    "tagName": "v0.9.0"
+                },
+                {
+                    "name": "ExpansionHunterDenovo-v0.8.7",
+                    "publishedAt": "2020-01-06T20:05:10Z",
+                    "tagName": "v0.8.7"
+                },
+                {
+                    "name": "ExpansionHunterDenovo-v0.8.6",
+                    "publishedAt": "2019-12-09T02:03:36Z",
+                    "tagName": "v0.8.6"
+                },
+                {
+                    "name": "ExpansionHunterDenovo-v0.8.1",
+                    "publishedAt": "2019-12-09T01:32:53Z",
+                    "tagName": "v0.8.1"
+                },
+                {
+                    "name": "ExpansionHunterDenovo-v0.8.0",
+                    "publishedAt": "2019-09-22T19:48:03Z",
+                    "tagName": "v0.8.0"
+                }
+            ]
+        }
+    },
+    "NBISweden/MrBayes": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "",
+                    "publishedAt": "2020-01-10T13:36:49Z",
+                    "tagName": "v3.2.7"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2020-01-10T13:17:22Z",
+                    "tagName": "v3.2.6"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2020-01-10T13:16:31Z",
+                    "tagName": "v3.2.5"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2020-01-10T13:15:40Z",
+                    "tagName": "v3.2.4"
+                },
+                {
+                    "name": "v3.2.7a",
+                    "publishedAt": "2020-01-17T13:55:57Z",
+                    "tagName": "v3.2.7a"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2018-06-15T12:33:30Z",
+                    "tagName": "v3.2.3"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2018-06-15T12:34:22Z",
+                    "tagName": "v3.2.2"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2018-06-15T12:34:56Z",
+                    "tagName": "v3.2.1"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2018-06-15T12:36:25Z",
+                    "tagName": "v3.2.0"
+                }
+            ]
+        }
+    },
+    "NorESMhub/NorESM": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "release-noresm2.0.6",
+                    "publishedAt": "2022-12-12T17:16:42Z",
+                    "tagName": "release-noresm2.0.6"
+                },
+                {
+                    "name": "feature-noresm2.0.2_keyClim_v02",
+                    "publishedAt": "2021-11-01T13:52:50Z",
+                    "tagName": "feature-noresm2.0.2_keyClim_v02"
+                },
+                {
+                    "name": "release-noresm2.0.5",
+                    "publishedAt": "2021-05-28T12:59:14Z",
+                    "tagName": "release-noresm2.0.5"
+                },
+                {
+                    "name": "release-noresm2.0.4",
+                    "publishedAt": "2021-04-09T15:37:43Z",
+                    "tagName": "release-noresm2.0.4"
+                },
+                {
+                    "name": "release-noresm2.0.3",
+                    "publishedAt": "2021-04-07T20:09:35Z",
+                    "tagName": "release-noresm2.0.3"
+                },
+                {
+                    "name": "feature-noresm2.0.2_keyClim_v01",
+                    "publishedAt": "2021-10-29T10:23:41Z",
+                    "tagName": "feature-noresm2.0.2_keyClim_v01"
+                },
+                {
+                    "name": "release-noresm2.0.2",
+                    "publishedAt": "2020-07-19T13:40:15Z",
+                    "tagName": "release-noresm2.0.2"
+                },
+                {
+                    "name": "release-noresm2.0.1",
+                    "publishedAt": "2020-04-23T11:26:23Z",
+                    "tagName": "release-noresm2.0.1"
+                },
+                {
+                    "name": "release-noresm2.0.0",
+                    "publishedAt": "2020-04-13T20:22:33Z",
+                    "tagName": "release-noresm2.0.0"
+                },
+                {
+                    "name": "noresm 1",
+                    "publishedAt": "2018-12-19T08:08:17Z",
+                    "tagName": "1.0.0"
+                }
+            ]
+        }
+    },
+    "OpenFOAM/OpenFOAM-dev": {
+        "releases": {
+            "nodes": []
+        }
+    },
+    "PhaseTracer/PhaseTracer": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "bug fix in THDMIISNMSSMBCsimple",
+                    "publishedAt": "2020-04-16T05:28:37Z",
+                    "tagName": "1.0.3"
+                },
+                {
+                    "name": "Accompanies v1 of the arXiv manual",
+                    "publishedAt": "2020-03-05T05:47:01Z",
+                    "tagName": "1.0.0"
+                }
+            ]
+        }
+    },
+    "RomainFeron/mwga-utils": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "0.1.6",
+                    "publishedAt": "2022-11-03T10:31:58Z",
+                    "tagName": "0.1.6"
+                },
+                {
+                    "name": "0.1.5",
+                    "publishedAt": "2022-11-02T10:46:30Z",
+                    "tagName": "0.1.5"
+                },
+                {
+                    "name": "Tentative code changes for Bioconda OSX build system",
+                    "publishedAt": "2021-07-19T14:06:20Z",
+                    "tagName": "0.1.4"
+                },
+                {
+                    "name": "0.1.3",
+                    "publishedAt": "2021-07-15T09:13:55Z",
+                    "tagName": "0.1.3"
+                },
+                {
+                    "name": "Update fasta header format",
+                    "publishedAt": "2020-01-08T10:01:33Z",
+                    "tagName": "0.1.2"
+                },
+                {
+                    "name": "Hotfix for wrong source output in missing_regions",
+                    "publishedAt": "2019-12-09T12:19:24Z",
+                    "tagName": "0.1.1"
+                },
+                {
+                    "name": "First beta release",
+                    "publishedAt": "2019-12-05T09:56:24Z",
+                    "tagName": "0.1.0"
+                }
+            ]
+        }
+    },
+    "STEllAR-GROUP/octotiger": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "v0.10.0",
+                    "publishedAt": "2023-08-31T03:39:55Z",
+                    "tagName": "v0.10.0"
+                },
+                {
+                    "name": "v0.9.0",
+                    "publishedAt": "2022-04-12T16:14:54Z",
+                    "tagName": "v0.9.0"
+                },
+                {
+                    "name": "0.8.1-rc3",
+                    "publishedAt": "2022-04-08T15:45:56Z",
+                    "tagName": "0.8.1-rc3"
+                },
+                {
+                    "name": "0.8.1-rc2",
+                    "publishedAt": "2022-02-24T02:11:43Z",
+                    "tagName": "0.8.1-rc2"
+                },
+                {
+                    "name": "Kokkos kernels",
+                    "publishedAt": "2021-07-12T16:33:58Z",
+                    "tagName": "0.8.1-rc1"
+                },
+                {
+                    "name": "Benchmark paper",
+                    "publishedAt": "2021-01-11T16:54:40Z",
+                    "tagName": "v0.8.0"
+                },
+                {
+                    "name": "Benchmark paper ",
+                    "publishedAt": "2021-01-07T22:52:31Z",
+                    "tagName": "0.8.0-rc1"
+                }
+            ]
+        }
+    },
+    "SimVascular/svSolver": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "WCB 2018 Release",
+                    "publishedAt": "2018-07-07T22:12:48Z",
+                    "tagName": "2018.07.04"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2018-07-07T22:13:05Z",
+                    "tagName": "2017.01.10"
+                }
+            ]
+        }
+    },
+    "TheBrownLab/PhyloFisher": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "v1.2.13",
+                    "publishedAt": "2023-10-09T21:05:31Z",
+                    "tagName": "v1.2.13"
+                },
+                {
+                    "name": "v1.2.12",
+                    "publishedAt": "2023-09-12T16:28:23Z",
+                    "tagName": "v1.2.12"
+                },
+                {
+                    "name": "v1.2.11",
+                    "publishedAt": "2023-08-14T15:03:26Z",
+                    "tagName": "v1.2.11"
+                },
+                {
+                    "name": "v1.2.10",
+                    "publishedAt": "2023-07-06T21:00:42Z",
+                    "tagName": "v1.2.10"
+                },
+                {
+                    "name": "v1.2.9",
+                    "publishedAt": "2023-06-20T18:35:05Z",
+                    "tagName": "v1.2.9"
+                },
+                {
+                    "name": "v1.2.8",
+                    "publishedAt": "2023-06-01T02:11:32Z",
+                    "tagName": "v1.2.8"
+                },
+                {
+                    "name": "v1.2.7",
+                    "publishedAt": "2023-04-07T22:41:39Z",
+                    "tagName": "v1.2.7"
+                },
+                {
+                    "name": "v1.2.6",
+                    "publishedAt": "2023-04-03T17:06:00Z",
+                    "tagName": "v1.2.6"
+                },
+                {
+                    "name": "v1.2.4",
+                    "publishedAt": "2022-12-06T16:54:56Z",
+                    "tagName": "v1.2.4"
+                },
+                {
+                    "name": "v1.2.3",
+                    "publishedAt": "2022-11-11T16:46:44Z",
+                    "tagName": "v1.2.3"
+                },
+                {
+                    "name": "v1.2.2",
+                    "publishedAt": "2022-10-17T20:01:36Z",
+                    "tagName": "v1.2.2"
+                },
+                {
+                    "name": "v1.2.1",
+                    "publishedAt": "2022-10-12T14:26:22Z",
+                    "tagName": "v1.2.1"
+                },
+                {
+                    "name": "v1.2.0",
+                    "publishedAt": "2022-09-23T18:13:04Z",
+                    "tagName": "v1.2.0"
+                },
+                {
+                    "name": "v1.1.2",
+                    "publishedAt": "2022-06-01T20:58:02Z",
+                    "tagName": "v1.1.2"
+                },
+                {
+                    "name": "v1.1.0",
+                    "publishedAt": "2022-01-26T16:36:46Z",
+                    "tagName": "v1.1.0"
+                }
+            ]
+        }
+    },
+    "ViriatoII/MindaGap": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "v0.0.3",
+                    "publishedAt": "2023-07-06T12:23:48Z",
+                    "tagName": "0.0.3"
+                },
+                {
+                    "name": "Initial release of Mindagap",
+                    "publishedAt": "2023-03-09T12:23:33Z",
+                    "tagName": "0.0.2"
+                }
+            ]
+        }
+    },
+    "amkozlov/raxml-ng": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "RAxML-NG v1.2.0",
+                    "publishedAt": "2023-05-09T19:52:19Z",
+                    "tagName": "1.2.0"
+                },
+                {
+                    "name": "RAxML-NG v1.1.0",
+                    "publishedAt": "2021-11-29T18:48:11Z",
+                    "tagName": "1.1.0"
+                },
+                {
+                    "name": "RAxML-NG v1.0.3",
+                    "publishedAt": "2021-07-21T14:22:11Z",
+                    "tagName": "1.0.3"
+                },
+                {
+                    "name": "RAxML-NG v1.0.2",
+                    "publishedAt": "2021-02-22T18:22:23Z",
+                    "tagName": "1.0.2"
+                },
+                {
+                    "name": "RAxML-NG v1.0.1",
+                    "publishedAt": "2020-09-21T17:34:01Z",
+                    "tagName": "1.0.1"
+                },
+                {
+                    "name": "RAxML-NG v1.0.0",
+                    "publishedAt": "2020-08-08T01:23:38Z",
+                    "tagName": "1.0.0"
+                },
+                {
+                    "name": "RAxML-NG v0.9.0",
+                    "publishedAt": "2019-05-20T16:49:44Z",
+                    "tagName": "0.9.0"
+                },
+                {
+                    "name": "RAxML-NG v0.8.1 BETA",
+                    "publishedAt": "2019-03-05T17:41:19Z",
+                    "tagName": "0.8.1"
+                },
+                {
+                    "name": "RAxML-NG v0.8.0 BETA",
+                    "publishedAt": "2019-01-11T18:33:25Z",
+                    "tagName": "0.8.0"
+                },
+                {
+                    "name": "RAxML-NG v0.7.0 BETA",
+                    "publishedAt": "2018-10-22T21:44:24Z",
+                    "tagName": "0.7.0"
+                },
+                {
+                    "name": "RAxML-NG v0.6.0 BETA",
+                    "publishedAt": "2018-06-16T21:06:46Z",
+                    "tagName": "0.6.0"
+                },
+                {
+                    "name": "RAxML-NG v0.5.1 BETA",
+                    "publishedAt": "2017-11-28T15:58:55Z",
+                    "tagName": "0.5.1"
+                },
+                {
+                    "name": "RAxML-NG v0.5.0 BETA",
+                    "publishedAt": "2017-09-10T00:38:33Z",
+                    "tagName": "0.5.0"
+                },
+                {
+                    "name": "RAxML-NG v0.4.1 BETA",
+                    "publishedAt": "2017-07-25T14:00:48Z",
+                    "tagName": "0.4.1"
+                },
+                {
+                    "name": "RAxML-NG v0.4.0 BETA",
+                    "publishedAt": "2017-06-01T15:08:51Z",
+                    "tagName": "0.4.0"
+                },
+                {
+                    "name": "RAxML-NG v0.3.0 BETA",
+                    "publishedAt": "2017-04-26T23:55:28Z",
+                    "tagName": "0.3.0"
+                },
+                {
+                    "name": "RAxML-NG v0.2.0 BETA",
+                    "publishedAt": "2017-04-04T17:02:12Z",
+                    "tagName": "0.2.0"
+                },
+                {
+                    "name": "RAxML-NG v0.1.0 BETA",
+                    "publishedAt": "2017-03-19T00:19:39Z",
+                    "tagName": "0.1.0"
+                }
+            ]
+        }
+    },
+    "artis-mcrt/artis": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "v2023.5.3",
+                    "publishedAt": "2023-10-06T09:04:02Z",
+                    "tagName": "v2023.5.3"
+                },
+                {
+                    "name": "v2023.5.2",
+                    "publishedAt": "2023-05-29T11:08:30Z",
+                    "tagName": "v2023.5.2"
+                },
+                {
+                    "name": "v2023.5.1",
+                    "publishedAt": "2023-05-26T11:50:40Z",
+                    "tagName": "v2023.5.1"
+                },
+                {
+                    "name": "v2023.5",
+                    "publishedAt": "2023-05-25T12:08:12Z",
+                    "tagName": "v2023.5"
+                },
+                {
+                    "name": "v2022.11",
+                    "publishedAt": "2023-03-13T11:02:41Z",
+                    "tagName": "v2022.11"
+                },
+                {
+                    "name": "Classic ARTIS",
+                    "publishedAt": "2019-11-25T13:08:31Z",
+                    "tagName": "v1.0.0"
+                }
+            ]
+        }
+    },
+    "astroboylrx/PLAN": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "PLanetesimal ANalyzer v0.3",
+                    "publishedAt": "2019-05-16T06:54:11Z",
+                    "tagName": "0.3.0"
+                },
+                {
+                    "name": "PLanetesimal ANalyzer v0.2",
+                    "publishedAt": "2018-09-27T20:51:13Z",
+                    "tagName": "0.2.0"
+                },
+                {
+                    "name": "PLanetesimal ANalyzer v0.1",
+                    "publishedAt": "2018-04-30T06:19:17Z",
+                    "tagName": "0.1.0"
+                }
+            ]
+        }
+    },
+    "bayesiancook/pbmpi": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "version 1.9-alpha",
+                    "publishedAt": "2022-04-24T10:42:35Z",
+                    "tagName": "v1.9"
+                },
+                {
+                    "name": "v1.8c",
+                    "publishedAt": "2020-10-26T19:00:56Z",
+                    "tagName": "v1.8c"
+                }
+            ]
+        }
+    },
+    "bbercovici/SBGAT": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "SBGAT V2.05.1",
+                    "publishedAt": "2019-05-06T05:31:58Z",
+                    "tagName": "2.05.1"
+                },
+                {
+                    "name": "SBGAT V2.04.1",
+                    "publishedAt": "2019-04-07T18:15:19Z",
+                    "tagName": "2.04.1"
+                },
+                {
+                    "name": "SBGAT V2.02.4",
+                    "publishedAt": "2019-02-21T19:10:56Z",
+                    "tagName": "2.02.4"
+                },
+                {
+                    "name": "SBGAT V2.02.3",
+                    "publishedAt": "2019-02-19T23:34:27Z",
+                    "tagName": "2.02.3"
+                },
+                {
+                    "name": "SBGAT 2.02.2",
+                    "publishedAt": "2019-02-10T05:56:17Z",
+                    "tagName": "2.02.2"
+                },
+                {
+                    "name": "SBGAT V2.02.1",
+                    "publishedAt": "2019-02-04T00:30:14Z",
+                    "tagName": "2.02.1"
+                },
+                {
+                    "name": "SBGAT V2.01.2",
+                    "publishedAt": "2019-01-29T23:40:04Z",
+                    "tagName": "2.01.2"
+                },
+                {
+                    "name": "SBGAT V.2.01.1",
+                    "publishedAt": "2019-01-22T16:56:55Z",
+                    "tagName": "2.01.1"
+                },
+                {
+                    "name": "SBGAT 1.12.2",
+                    "publishedAt": "2018-12-13T03:49:37Z",
+                    "tagName": "1.12.2"
+                },
+                {
+                    "name": "SBGAT V1.12.1",
+                    "publishedAt": "2018-12-10T16:24:15Z",
+                    "tagName": "1.12.1"
+                },
+                {
+                    "name": "SBGAT V1.11.1",
+                    "publishedAt": "2018-11-22T01:29:43Z",
+                    "tagName": "1.11.1"
+                },
+                {
+                    "name": "SBGAT V1.10.1",
+                    "publishedAt": "2018-10-27T21:38:29Z",
+                    "tagName": "1.10.1"
+                },
+                {
+                    "name": "SBGAT V1.09.1",
+                    "publishedAt": "2018-09-25T01:41:45Z",
+                    "tagName": "1.09.1"
+                },
+                {
+                    "name": "SBGAT V1.08.1",
+                    "publishedAt": "2018-08-07T16:17:03Z",
+                    "tagName": "1.08.1"
+                },
+                {
+                    "name": "SBGAT 1.06.1",
+                    "publishedAt": "2018-06-25T19:20:44Z",
+                    "tagName": "1.06.1"
+                },
+                {
+                    "name": "SBGAT V1.05.2",
+                    "publishedAt": "2018-05-27T18:20:05Z",
+                    "tagName": "1.05.2"
+                },
+                {
+                    "name": "SBGAT V1.05.1",
+                    "publishedAt": "2018-05-15T00:49:48Z",
+                    "tagName": "1.05.1"
+                },
+                {
+                    "name": "SBGAT V1.04.3",
+                    "publishedAt": "2018-04-21T01:03:38Z",
+                    "tagName": "1.04.3"
+                }
+            ]
+        }
+    },
+    "bcgsc/transabyss": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "2.0.1",
+                    "publishedAt": "2018-02-19T17:28:03Z",
+                    "tagName": "2.0.1"
+                },
+                {
+                    "name": "2.0.0",
+                    "publishedAt": "2018-02-05T22:55:48Z",
+                    "tagName": "2.0.0"
+                },
+                {
+                    "name": "1.5.5",
+                    "publishedAt": "2016-08-02T18:02:03Z",
+                    "tagName": "1.5.5"
+                },
+                {
+                    "name": "1.5.4",
+                    "publishedAt": "2016-05-09T18:50:45Z",
+                    "tagName": "1.5.4"
+                },
+                {
+                    "name": "1.5.3",
+                    "publishedAt": "2015-05-22T16:37:49Z",
+                    "tagName": "1.5.3"
+                },
+                {
+                    "name": "1.5.2",
+                    "publishedAt": "2014-11-14T23:32:01Z",
+                    "tagName": "1.5.2"
+                },
+                {
+                    "name": "1.5.1",
+                    "publishedAt": "2014-07-22T16:42:53Z",
+                    "tagName": "1.5.1"
+                }
+            ]
+        }
+    },
+    "bschiffthaler/seidr": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "Seidr 0.14.2",
+                    "publishedAt": "2020-12-04T07:25:08Z",
+                    "tagName": "0.14.2"
+                },
+                {
+                    "name": "Seidr 0.14.1",
+                    "publishedAt": "2020-11-28T00:11:09Z",
+                    "tagName": "0.14.1"
+                },
+                {
+                    "name": "Seidr 0.13.1",
+                    "publishedAt": "2020-03-09T19:36:52Z",
+                    "tagName": "0.13.1"
+                }
+            ]
+        }
+    },
+    "bwvdnbro/CMacIonize": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "Version 2.0",
+                    "publishedAt": "2020-07-27T13:20:57Z",
+                    "tagName": "v2.0"
+                },
+                {
+                    "name": "Version 1.0: state of the code upon acceptance of the code paper",
+                    "publishedAt": "2018-02-26T16:39:28Z",
+                    "tagName": "v1.0"
+                },
+                {
+                    "name": "Distributed memory parallelization, first order RHD, non-degenerate Voronoi grid",
+                    "publishedAt": "2017-05-05T08:28:34Z",
+                    "tagName": "v0.7"
+                }
+            ]
+        }
+    },
+    "bxlab/hifive": {
+        "releases": {
+            "nodes": []
+        }
+    },
+    "casacore/casacore": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "3.5.0",
+                    "publishedAt": "2022-07-05T17:49:31Z",
+                    "tagName": "v3.5.0"
+                },
+                {
+                    "name": "3.4.0",
+                    "publishedAt": "2021-02-19T12:58:47Z",
+                    "tagName": "v3.4.0"
+                },
+                {
+                    "name": "3.3.0",
+                    "publishedAt": "2020-04-15T19:51:23Z",
+                    "tagName": "v3.3.0"
+                },
+                {
+                    "name": "3.2.1",
+                    "publishedAt": "2019-11-22T10:06:10Z",
+                    "tagName": "v3.2.1"
+                },
+                {
+                    "name": "3.2.0",
+                    "publishedAt": "2019-11-19T09:49:08Z",
+                    "tagName": "v3.2.0"
+                },
+                {
+                    "name": "3.1.2",
+                    "publishedAt": "2019-07-11T14:52:28Z",
+                    "tagName": "v3.1.2"
+                },
+                {
+                    "name": "Minor release, Improved python3 & unicode",
+                    "publishedAt": "2019-06-05T13:25:24Z",
+                    "tagName": "v3.1.1"
+                },
+                {
+                    "name": "casacore v3.1.0",
+                    "publishedAt": "2019-04-06T12:19:39Z",
+                    "tagName": "v3.1.0"
+                },
+                {
+                    "name": "3.0.0",
+                    "publishedAt": "2018-11-15T12:57:57Z",
+                    "tagName": "v3.0.0"
+                },
+                {
+                    "name": "2.4.1",
+                    "publishedAt": "2017-12-13T14:02:38Z",
+                    "tagName": "v2.4.1"
+                },
+                {
+                    "name": "2.4.0",
+                    "publishedAt": "2017-11-01T20:46:06Z",
+                    "tagName": "v2.4.0"
+                },
+                {
+                    "name": "2.3.0",
+                    "publishedAt": "2017-05-17T11:56:44Z",
+                    "tagName": "v2.3.0"
+                },
+                {
+                    "name": "2.2.0",
+                    "publishedAt": "2016-12-01T13:13:49Z",
+                    "tagName": "v2.2.0"
+                },
+                {
+                    "name": "2.1.0",
+                    "publishedAt": "2016-03-18T11:01:18Z",
+                    "tagName": "v2.1.0"
+                },
+                {
+                    "name": "2.0.3",
+                    "publishedAt": "2015-07-24T07:16:49Z",
+                    "tagName": "v2.0.3"
+                },
+                {
+                    "name": "small bugfix release",
+                    "publishedAt": "2015-04-10T10:37:40Z",
+                    "tagName": "v2.0.1"
+                },
+                {
+                    "name": "casacore 2.0.0",
+                    "publishedAt": "2015-04-09T10:51:05Z",
+                    "tagName": "v2.0.0"
+                }
+            ]
+        }
+    },
+    "davidemms/OrthoFinder": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "OrthoFinder v2.5.5",
+                    "publishedAt": "2023-05-15T17:21:58Z",
+                    "tagName": "2.5.5"
+                },
+                {
+                    "name": "OrthoFinder v2.5.4",
+                    "publishedAt": "2021-07-08T10:06:51Z",
+                    "tagName": "2.5.4"
+                },
+                {
+                    "name": "OrthoFinder v2.5.2",
+                    "publishedAt": "2021-01-06T15:26:21Z",
+                    "tagName": "2.5.2"
+                },
+                {
+                    "name": "OrthoFinder v2.5.1",
+                    "publishedAt": "2020-11-30T15:44:41Z",
+                    "tagName": "2.5.1"
+                },
+                {
+                    "name": "OrthoFinder v2.4.1",
+                    "publishedAt": "2020-11-06T16:51:37Z",
+                    "tagName": "2.4.1"
+                },
+                {
+                    "name": "OrthoFinder v2.4.0",
+                    "publishedAt": "2020-07-15T17:30:50Z",
+                    "tagName": "2.4.0"
+                },
+                {
+                    "name": "OrthoFinder v2.3.14 (stable)",
+                    "publishedAt": "2020-07-15T15:52:20Z",
+                    "tagName": "2.3.14"
+                },
+                {
+                    "name": "OrthoFinder v2.3.12 (stable)",
+                    "publishedAt": "2020-05-07T16:21:02Z",
+                    "tagName": "2.3.12"
+                },
+                {
+                    "name": "OrthoFinder v2.3.11",
+                    "publishedAt": "2020-02-11T11:04:09Z",
+                    "tagName": "2.3.11"
+                },
+                {
+                    "name": "OrthoFinder v2.3.10",
+                    "publishedAt": "2020-02-06T15:33:58Z",
+                    "tagName": "2.3.10"
+                },
+                {
+                    "name": "OrthoFinder v2.3.8",
+                    "publishedAt": "2019-11-28T12:54:20Z",
+                    "tagName": "2.3.8"
+                },
+                {
+                    "name": "OrthoFinder v2.3.7",
+                    "publishedAt": "2019-10-22T16:47:06Z",
+                    "tagName": "2.3.7"
+                },
+                {
+                    "name": "OrthoFinder v2.3.3",
+                    "publishedAt": "2019-04-30T11:21:26Z",
+                    "tagName": "2.3.3"
+                },
+                {
+                    "name": "OrthoFinder v2.3.1 (beta)",
+                    "publishedAt": "2018-11-08T17:40:57Z",
+                    "tagName": "v2.3.1-beta"
+                },
+                {
+                    "name": "OrthoFinder v2.2.7",
+                    "publishedAt": "2018-08-31T14:07:41Z",
+                    "tagName": "v2.2.7"
+                },
+                {
+                    "name": "OrthoFinder v2.2.6",
+                    "publishedAt": "2018-05-21T16:18:08Z",
+                    "tagName": "v2.2.6"
+                },
+                {
+                    "name": "OrthoFinder v2.2.3",
+                    "publishedAt": "2018-04-11T11:07:56Z",
+                    "tagName": "v2.2.3"
+                },
+                {
+                    "name": "OrthoFinder v2.2.1",
+                    "publishedAt": "2018-03-09T11:24:12Z",
+                    "tagName": "2.2.1"
+                },
+                {
+                    "name": "OrthoFinder v2.2.0",
+                    "publishedAt": "2018-02-19T16:07:01Z",
+                    "tagName": "2.2.0"
+                },
+                {
+                    "name": "OrthoFinder v2.1.2",
+                    "publishedAt": "2017-11-21T15:57:50Z",
+                    "tagName": "2.1.2"
+                },
+                {
+                    "name": "OrthoFinder v2.0.0-beta",
+                    "publishedAt": "2017-10-01T17:32:36Z",
+                    "tagName": "2.0.0-beta"
+                },
+                {
+                    "name": "OrthoFinder v1.1.10",
+                    "publishedAt": "2017-09-12T10:02:37Z",
+                    "tagName": "1.1.10"
+                },
+                {
+                    "name": "OrthoFinder v1.1.8",
+                    "publishedAt": "2017-06-14T15:13:22Z",
+                    "tagName": "1.1.8"
+                },
+                {
+                    "name": "OrthoFinder v1.1.4",
+                    "publishedAt": "2017-01-27T16:30:03Z",
+                    "tagName": "1.1.4"
+                },
+                {
+                    "name": "OrthoFinder v1.1.2",
+                    "publishedAt": "2016-11-25T17:37:32Z",
+                    "tagName": "1.1.2"
+                },
+                {
+                    "name": "OrthoFinder v1.0.8",
+                    "publishedAt": "2016-11-08T14:49:52Z",
+                    "tagName": "1.0.8"
+                },
+                {
+                    "name": "OrthoFinder v1.0.7",
+                    "publishedAt": "2016-10-11T08:16:19Z",
+                    "tagName": "1.0.7"
+                },
+                {
+                    "name": "OrthoFinder v1.0.6",
+                    "publishedAt": "2016-09-27T11:59:31Z",
+                    "tagName": "1.0.6"
+                },
+                {
+                    "name": "OrthoFinder v1.0.2-beta",
+                    "publishedAt": "2016-09-07T17:15:44Z",
+                    "tagName": "1.0.2-beta"
+                },
+                {
+                    "name": "OrthoFinder v1.0.0-beta",
+                    "publishedAt": "2016-08-31T07:36:32Z",
+                    "tagName": "v1.0.0-beta"
+                },
+                {
+                    "name": "OrthoFinder v0.7.1",
+                    "publishedAt": "2016-07-18T15:35:10Z",
+                    "tagName": "0.7.1"
+                },
+                {
+                    "name": "OrthoFinder v0.6.1",
+                    "publishedAt": "2016-07-11T16:43:23Z",
+                    "tagName": "v0.6.1"
+                },
+                {
+                    "name": "OrthoFinder v0.6",
+                    "publishedAt": "2016-06-21T15:26:38Z",
+                    "tagName": "v0.6"
+                },
+                {
+                    "name": "OrthoFinder v0.4",
+                    "publishedAt": "2016-01-28T19:52:31Z",
+                    "tagName": "v0.4"
+                }
+            ]
+        }
+    },
+    "ddarriba/modeltest": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "ModelTest-NG v0.1.7",
+                    "publishedAt": "2021-03-23T21:50:52Z",
+                    "tagName": "v0.1.7"
+                },
+                {
+                    "name": "ModelTest-NG v0.1.6",
+                    "publishedAt": "2019-10-30T18:58:07Z",
+                    "tagName": "v0.1.6"
+                },
+                {
+                    "name": "ModelTest-NG v0.1.5",
+                    "publishedAt": "2018-08-14T14:11:42Z",
+                    "tagName": "v0.1.5"
+                },
+                {
+                    "name": "ModelTest-NG v0.1.4",
+                    "publishedAt": "2018-08-07T19:25:44Z",
+                    "tagName": "v0.1.4"
+                },
+                {
+                    "name": "ModelTest-NG v0.1.3",
+                    "publishedAt": "2018-02-23T19:16:00Z",
+                    "tagName": "v0.1.3"
+                },
+                {
+                    "name": "ModelTest-NG v0.1.2",
+                    "publishedAt": "2017-10-16T16:48:54Z",
+                    "tagName": "v0.1.2"
+                },
+                {
+                    "name": "ModelTest-NG v0.1.1",
+                    "publishedAt": "2017-09-22T00:14:08Z",
+                    "tagName": "v0.1.1"
+                },
+                {
+                    "name": "Release Candidate 2",
+                    "publishedAt": "2017-07-18T23:03:49Z",
+                    "tagName": "0.1.0-rc2"
+                },
+                {
+                    "name": "ModelTest-NG v0.1.0-rc",
+                    "publishedAt": "2017-07-16T21:30:19Z",
+                    "tagName": "0.1.0-rc"
+                },
+                {
+                    "name": "ModelTest-Light v0.1",
+                    "publishedAt": "2016-02-13T01:49:06Z",
+                    "tagName": "v0.1.0"
+                }
+            ]
+        }
+    },
+    "dereneaton/ipyrad": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "0.9.93",
+                    "publishedAt": "2023-08-16T21:13:00Z",
+                    "tagName": "0.9.93"
+                },
+                {
+                    "name": "0.9.92",
+                    "publishedAt": "2023-08-07T15:30:15Z",
+                    "tagName": "0.9.92"
+                },
+                {
+                    "name": "0.9.90",
+                    "publishedAt": "2023-04-11T19:45:17Z",
+                    "tagName": "0.9.90"
+                },
+                {
+                    "name": "0.9.85",
+                    "publishedAt": "2022-09-15T23:27:26Z",
+                    "tagName": "0.9.85"
+                },
+                {
+                    "name": "0.9.83",
+                    "publishedAt": "2022-02-02T00:45:21Z",
+                    "tagName": "0.9.83"
+                },
+                {
+                    "name": "0.9.82",
+                    "publishedAt": "2022-01-21T14:06:27Z",
+                    "tagName": "0.9.82"
+                },
+                {
+                    "name": "0.9.81",
+                    "publishedAt": "2021-07-30T04:46:31Z",
+                    "tagName": "0.9.81"
+                },
+                {
+                    "name": "0.9.78",
+                    "publishedAt": "2021-06-03T20:45:01Z",
+                    "tagName": "0.9.78"
+                },
+                {
+                    "name": "0.9.74",
+                    "publishedAt": "2021-05-08T23:57:45Z",
+                    "tagName": "0.9.74"
+                },
+                {
+                    "name": "0.9.73",
+                    "publishedAt": "2021-05-07T15:35:42Z",
+                    "tagName": "0.9.73"
+                },
+                {
+                    "name": "0.9.72",
+                    "publishedAt": "2021-05-07T15:22:29Z",
+                    "tagName": "0.9.72"
+                },
+                {
+                    "name": "0.9.71",
+                    "publishedAt": "2021-04-16T14:28:09Z",
+                    "tagName": "0.9.71"
+                },
+                {
+                    "name": "0.9.68",
+                    "publishedAt": "2021-03-03T11:49:30Z",
+                    "tagName": "0.9.68"
+                },
+                {
+                    "name": "0.9.63",
+                    "publishedAt": "2021-01-16T11:14:56Z",
+                    "tagName": "0.9.63"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2020-11-03T14:59:15Z",
+                    "tagName": "0.9.61"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2020-08-01T21:54:04Z",
+                    "tagName": "0.9.57"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2020-06-30T14:39:40Z",
+                    "tagName": "0.9.56"
+                },
+                {
+                    "name": "ipyrad v0.2.0",
+                    "publishedAt": "2016-05-01T20:40:31Z",
+                    "tagName": "0.2.0"
+                }
+            ]
+        }
+    },
+    "domschrei/mallob": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "v1.1.0",
+                    "publishedAt": "2022-07-23T08:04:52Z",
+                    "tagName": "v1.1.0"
+                },
+                {
+                    "name": "v1.0.0",
+                    "publishedAt": "2022-06-29T09:40:48Z",
+                    "tagName": "v1.0.0"
+                }
+            ]
+        }
+    },
+    "exoclime/Helios-r2": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "Helios-r2 1.0",
+                    "publishedAt": "2020-02-07T16:59:57Z",
+                    "tagName": "1.0"
+                },
+                {
+                    "name": "Preview Release",
+                    "publishedAt": "2020-01-16T17:39:09Z",
+                    "tagName": "v0.9prev"
+                }
+            ]
+        }
+    },
+    "hallamlab/TreeSAPP": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "v0.11.4",
+                    "publishedAt": "2022-06-01T12:49:50Z",
+                    "tagName": "v0.11.4"
+                },
+                {
+                    "name": "v0.11.3",
+                    "publishedAt": "2021-12-14T11:52:38Z",
+                    "tagName": "v0.11.3"
+                },
+                {
+                    "name": "v0.11.2",
+                    "publishedAt": "2021-06-12T12:40:50Z",
+                    "tagName": "v0.11.2"
+                },
+                {
+                    "name": "v0.11.0",
+                    "publishedAt": "2021-04-27T14:52:38Z",
+                    "tagName": "v0.11.0"
+                },
+                {
+                    "name": "v0.10.4",
+                    "publishedAt": "2021-03-25T17:02:02Z",
+                    "tagName": "v0.10.4"
+                },
+                {
+                    "name": "v0.10.3",
+                    "publishedAt": "2021-03-23T12:54:59Z",
+                    "tagName": "v0.10.3"
+                },
+                {
+                    "name": "v0.10.2",
+                    "publishedAt": "2021-03-08T15:34:44Z",
+                    "tagName": "v0.10.2"
+                },
+                {
+                    "name": "v0.10.1",
+                    "publishedAt": "2021-02-15T16:12:51Z",
+                    "tagName": "v0.10.1"
+                },
+                {
+                    "name": "v0.10.0",
+                    "publishedAt": "2021-02-09T16:04:16Z",
+                    "tagName": "v0.10.0"
+                },
+                {
+                    "name": "v0.9.8",
+                    "publishedAt": "2021-01-15T08:55:16Z",
+                    "tagName": "v0.9.8"
+                },
+                {
+                    "name": "v0.9.7",
+                    "publishedAt": "2021-01-06T12:18:04Z",
+                    "tagName": "v0.9.7"
+                },
+                {
+                    "name": "Full city+ - Gedeo",
+                    "publishedAt": "2020-09-15T19:37:48Z",
+                    "tagName": "v0.9.0"
+                },
+                {
+                    "name": "Full city - Agaro",
+                    "publishedAt": "2020-06-11T22:54:15Z",
+                    "tagName": "v0.6.8"
+                },
+                {
+                    "name": "City+ - Guji",
+                    "publishedAt": "2019-09-24T17:52:24Z",
+                    "tagName": "v0.6.0"
+                },
+                {
+                    "name": "City-Nyeri",
+                    "publishedAt": "2019-04-03T18:50:32Z",
+                    "tagName": "v0.3.0"
+                },
+                {
+                    "name": "Cinnamon-Tarrazu",
+                    "publishedAt": "2018-05-02T19:18:44Z",
+                    "tagName": "v0.1.0-beta"
+                },
+                {
+                    "name": "Green-Chanchamayo",
+                    "publishedAt": "2016-10-19T18:51:41Z",
+                    "tagName": "v0.0.0"
+                }
+            ]
+        }
+    },
+    "idefix-code/idefix": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "v2.0.02",
+                    "publishedAt": "2023-11-06T08:47:35Z",
+                    "tagName": "v2.0.02"
+                },
+                {
+                    "name": "v2.0.01",
+                    "publishedAt": "2023-10-26T07:31:04Z",
+                    "tagName": "v2.0.01"
+                },
+                {
+                    "name": "v2.0.0",
+                    "publishedAt": "2023-10-23T11:01:37Z",
+                    "tagName": "v2.0"
+                },
+                {
+                    "name": "v1.1.0",
+                    "publishedAt": "2023-10-23T10:55:52Z",
+                    "tagName": "v1.1"
+                }
+            ]
+        }
+    },
+    "introlab/rtabmap": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "v0.21.0",
+                    "publishedAt": "2023-03-20T02:27:14Z",
+                    "tagName": "0.21.0"
+                },
+                {
+                    "name": "v0.20.16",
+                    "publishedAt": "2021-12-30T00:05:09Z",
+                    "tagName": "0.20.16"
+                },
+                {
+                    "name": "v0.20.8",
+                    "publishedAt": "2021-01-18T21:01:06Z",
+                    "tagName": "0.20.8"
+                },
+                {
+                    "name": "v0.20.7",
+                    "publishedAt": "2020-12-13T20:29:49Z",
+                    "tagName": "0.20.7"
+                },
+                {
+                    "name": "v0.20.3",
+                    "publishedAt": "2020-08-02T05:09:55Z",
+                    "tagName": "0.20.3"
+                },
+                {
+                    "name": "v0.20.2",
+                    "publishedAt": "2020-07-03T01:09:31Z",
+                    "tagName": "0.20.2"
+                },
+                {
+                    "name": "v0.18.0",
+                    "publishedAt": "2018-12-05T00:57:22Z",
+                    "tagName": "0.18.0"
+                },
+                {
+                    "name": "v0.17.5",
+                    "publishedAt": "2018-09-14T16:06:33Z",
+                    "tagName": "0.17.5"
+                },
+                {
+                    "name": "v0.16.3",
+                    "publishedAt": "2018-03-23T16:35:36Z",
+                    "tagName": "0.16.3"
+                },
+                {
+                    "name": "v0.14.0",
+                    "publishedAt": "2017-09-27T10:53:34Z",
+                    "tagName": "0.14.0"
+                },
+                {
+                    "name": "v0.13.0",
+                    "publishedAt": "2017-06-26T20:04:42Z",
+                    "tagName": "0.13.0"
+                },
+                {
+                    "name": "v0.12.5",
+                    "publishedAt": "2017-05-18T18:20:45Z",
+                    "tagName": "0.12.5"
+                },
+                {
+                    "name": "v0.12.4",
+                    "publishedAt": "2017-04-04T23:13:36Z",
+                    "tagName": "0.12.4"
+                },
+                {
+                    "name": "v0.12.1",
+                    "publishedAt": "2017-02-23T19:16:51Z",
+                    "tagName": "0.12.1"
+                },
+                {
+                    "name": "v0.11.14",
+                    "publishedAt": "2017-02-01T18:24:18Z",
+                    "tagName": "0.11.14"
+                },
+                {
+                    "name": "v0.11.13",
+                    "publishedAt": "2017-01-06T15:47:38Z",
+                    "tagName": "0.11.13"
+                },
+                {
+                    "name": "v0.11.11",
+                    "publishedAt": "2016-11-01T18:38:14Z",
+                    "tagName": "0.11.11"
+                },
+                {
+                    "name": "v0.11.8",
+                    "publishedAt": "2016-07-21T16:42:40Z",
+                    "tagName": "0.11.8"
+                },
+                {
+                    "name": "v0.11.7",
+                    "publishedAt": "2016-06-04T19:20:20Z",
+                    "tagName": "0.11.7"
+                },
+                {
+                    "name": "v0.11.2",
+                    "publishedAt": "2016-03-21T18:53:42Z",
+                    "tagName": "0.11.2"
+                },
+                {
+                    "name": "v0.10.10",
+                    "publishedAt": "2015-10-19T16:22:28Z",
+                    "tagName": "0.10.10"
+                },
+                {
+                    "name": "v0.10.5",
+                    "publishedAt": "2015-08-17T16:57:08Z",
+                    "tagName": "0.10.5"
+                },
+                {
+                    "name": "v0.10.2",
+                    "publishedAt": "2015-07-27T22:39:57Z",
+                    "tagName": "0.10.2"
+                },
+                {
+                    "name": "v0.8.12",
+                    "publishedAt": "2015-05-10T23:20:12Z",
+                    "tagName": "0.8.12"
+                },
+                {
+                    "name": "v0.8.10",
+                    "publishedAt": "2015-04-29T05:31:05Z",
+                    "tagName": "0.8.10"
+                },
+                {
+                    "name": "v0.8.3",
+                    "publishedAt": "2015-02-08T23:48:23Z",
+                    "tagName": "0.8.3"
+                },
+                {
+                    "name": "v0.8.2",
+                    "publishedAt": "2015-01-12T19:51:25Z",
+                    "tagName": "0.8.2"
+                },
+                {
+                    "name": "v0.8.1",
+                    "publishedAt": "2015-01-09T18:58:18Z",
+                    "tagName": "0.8.1"
+                },
+                {
+                    "name": "v0.8.0",
+                    "publishedAt": "2014-12-14T22:18:56Z",
+                    "tagName": "0.8.0"
+                },
+                {
+                    "name": "v0.7.3",
+                    "publishedAt": "2014-12-02T22:32:19Z",
+                    "tagName": "0.7.3"
+                },
+                {
+                    "name": "v0.7.2",
+                    "publishedAt": "2014-11-27T21:03:54Z",
+                    "tagName": "0.7.2"
+                },
+                {
+                    "name": "v0.7.1",
+                    "publishedAt": "2014-11-25T22:17:48Z",
+                    "tagName": "0.7.1"
+                }
+            ]
+        }
+    },
+    "jasminezhoulab/Hi-Corrector": {
+        "releases": {
+            "nodes": []
+        }
+    },
+    "jodyhey/IMa3": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "v1.13",
+                    "publishedAt": "2023-05-24T20:54:48Z",
+                    "tagName": "v1.13"
+                },
+                {
+                    "name": "Release v1.12",
+                    "publishedAt": "2021-09-15T18:34:21Z",
+                    "tagName": "v1.12"
+                }
+            ]
+        }
+    },
+    "madebr/pyOpt": {
+        "releases": {
+            "nodes": []
+        }
+    },
+    "muon-spectroscopy-computational-project/muspinsim": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "",
+                    "publishedAt": "2023-04-04T11:16:43Z",
+                    "tagName": "v2.3.0"
+                },
+                {
+                    "name": "v2.2.1",
+                    "publishedAt": "2023-03-14T16:03:39Z",
+                    "tagName": "v2.2.1"
+                },
+                {
+                    "name": "v2.2.0",
+                    "publishedAt": "2023-03-07T11:37:36Z",
+                    "tagName": "v2.2.0"
+                },
+                {
+                    "name": "v2.1.0",
+                    "publishedAt": "2023-02-20T15:00:32Z",
+                    "tagName": "v2.1.0"
+                },
+                {
+                    "name": "v2.0.2",
+                    "publishedAt": "2023-01-25T14:17:09Z",
+                    "tagName": "v2.0.2"
+                },
+                {
+                    "name": "v2.0.1",
+                    "publishedAt": "2023-01-24T11:19:15Z",
+                    "tagName": "v2.0.1"
+                },
+                {
+                    "name": "v2.0.0",
+                    "publishedAt": "2023-01-23T10:30:24Z",
+                    "tagName": "v2.0.0"
+                },
+                {
+                    "name": "v1.2.0",
+                    "publishedAt": "2022-08-26T17:07:29Z",
+                    "tagName": "v1.2.0"
+                },
+                {
+                    "name": "v1.1.0",
+                    "publishedAt": "2022-05-19T08:58:09Z",
+                    "tagName": "v1.1.0"
+                },
+                {
+                    "name": "v1.0.4",
+                    "publishedAt": "2022-05-04T13:03:56Z",
+                    "tagName": "v1.0.4"
+                }
+            ]
+        }
+    },
+    "nickjcroucher/gubbins": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "Gubbins v3.3.1",
+                    "publishedAt": "2023-09-11T08:10:35Z",
+                    "tagName": "v3.3.1"
+                },
+                {
+                    "name": "v3.3.0",
+                    "publishedAt": "2023-05-05T07:16:18Z",
+                    "tagName": "v3.3.0"
+                },
+                {
+                    "name": "v3.3",
+                    "publishedAt": "2022-10-06T09:48:08Z",
+                    "tagName": "v3.3"
+                },
+                {
+                    "name": "v3.2.1",
+                    "publishedAt": "2022-05-24T10:02:06Z",
+                    "tagName": "v3.2.1"
+                },
+                {
+                    "name": "Version 3.2",
+                    "publishedAt": "2022-03-02T17:34:21Z",
+                    "tagName": "v3.2.0"
+                },
+                {
+                    "name": "Version 3.1.6",
+                    "publishedAt": "2022-01-20T09:08:15Z",
+                    "tagName": "v3.1.6"
+                },
+                {
+                    "name": "Version 3.1.5",
+                    "publishedAt": "2022-01-19T15:55:16Z",
+                    "tagName": "v3.1.5"
+                },
+                {
+                    "name": "Version 3.1.4",
+                    "publishedAt": "2021-11-15T11:38:34Z",
+                    "tagName": "v3.1.4"
+                },
+                {
+                    "name": "Version 3.1.3",
+                    "publishedAt": "2021-10-22T08:11:48Z",
+                    "tagName": "v3.1.3"
+                },
+                {
+                    "name": "Version 3.1.2",
+                    "publishedAt": "2021-10-12T11:07:52Z",
+                    "tagName": "v3.1.2"
+                },
+                {
+                    "name": "Version 3.1.1",
+                    "publishedAt": "2021-10-12T06:49:38Z",
+                    "tagName": "v3.1.1"
+                },
+                {
+                    "name": "Version 3.1.0",
+                    "publishedAt": "2021-10-06T21:18:47Z",
+                    "tagName": "v3.1.0"
+                },
+                {
+                    "name": "Version 3.0.0",
+                    "publishedAt": "2021-01-29T16:23:01Z",
+                    "tagName": "v3.0.0"
+                },
+                {
+                    "name": "Memory leakage fixes",
+                    "publishedAt": "2020-01-20T10:27:56Z",
+                    "tagName": "v2.4.1"
+                },
+                {
+                    "name": "Dockerfile to include gdb",
+                    "publishedAt": "2020-01-13T16:57:06Z",
+                    "tagName": "v2.4.0-docker2"
+                },
+                {
+                    "name": "Info messages",
+                    "publishedAt": "2020-01-03T17:29:23Z",
+                    "tagName": "v2.4.0"
+                },
+                {
+                    "name": "Docker build",
+                    "publishedAt": "2019-12-11T17:07:43Z",
+                    "tagName": "v2.3.5"
+                },
+                {
+                    "name": "v2.3.4: Dynamically allocate memory",
+                    "publishedAt": "2018-07-30T15:37:45Z",
+                    "tagName": "v2.3.4"
+                },
+                {
+                    "name": "v2.3.3: independent dockerfile",
+                    "publishedAt": "2018-07-26T16:06:51Z",
+                    "tagName": "v2.3.3"
+                },
+                {
+                    "name": "v2.3.2: updated installation instruction, fixes and improved argument handling",
+                    "publishedAt": "2018-06-29T08:29:12Z",
+                    "tagName": "v2.3.2"
+                },
+                {
+                    "name": "Output a tree with the internal nodes labelled",
+                    "publishedAt": "2017-09-22T10:58:11Z",
+                    "tagName": "v2.3.1"
+                },
+                {
+                    "name": "Gubbins Drawer updates",
+                    "publishedAt": "2017-09-21T14:34:03Z",
+                    "tagName": "v2.3.0"
+                },
+                {
+                    "name": "Fix default extended help text",
+                    "publishedAt": "2017-09-15T13:06:12Z",
+                    "tagName": "v2.2.3"
+                },
+                {
+                    "name": "Allow the use of RAXML AVX2 binaries",
+                    "publishedAt": "2017-09-04T10:11:22Z",
+                    "tagName": "v2.2.2"
+                },
+                {
+                    "name": "Remove use of Biopythons sub_features function which has been deprecated.",
+                    "publishedAt": "2017-09-04T09:52:15Z",
+                    "tagName": "v2.2.1"
+                },
+                {
+                    "name": "Dont filter out identical sequences by default",
+                    "publishedAt": "2016-10-31T13:13:18Z",
+                    "tagName": "v2.2.0"
+                },
+                {
+                    "name": "",
+                    "publishedAt": "2016-07-25T15:00:09Z",
+                    "tagName": "v2.1.0"
+                },
+                {
+                    "name": "Use RAxML for ancestor reconstruction ",
+                    "publishedAt": "2016-07-19T15:53:59Z",
+                    "tagName": "v2.0.0"
+                }
+            ]
+        }
+    },
+    "revbayes/revbayes": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "Release v1.2.2",
+                    "publishedAt": "2023-06-07T20:37:37Z",
+                    "tagName": "v1.2.2"
+                },
+                {
+                    "name": "Release v1.2.2-preview1",
+                    "publishedAt": "2022-12-19T17:43:00Z",
+                    "tagName": "v1.2.2-preview1"
+                },
+                {
+                    "name": "Release v1.2.1",
+                    "publishedAt": "2022-11-07T15:32:18Z",
+                    "tagName": "v1.2.1"
+                },
+                {
+                    "name": "Release v1.2.1-preview8",
+                    "publishedAt": "2022-11-03T15:27:12Z",
+                    "tagName": "v1.2.1-preview8"
+                },
+                {
+                    "name": "Release v1.2.0 Lagerst\u00e4tte",
+                    "publishedAt": "2022-08-03T18:30:35Z",
+                    "tagName": "v1.2.0"
+                },
+                {
+                    "name": "RevBayes v1.1.1 A New Hope",
+                    "publishedAt": "2021-02-11T22:17:28Z",
+                    "tagName": "1.1.1"
+                },
+                {
+                    "name": "RevBayes v1.1.0 Home Bayes",
+                    "publishedAt": "2020-05-13T13:51:56Z",
+                    "tagName": "1.1.0"
+                }
+            ]
+        }
+    },
+    "saccharis/SACCHARIS_2": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "SACCHARIS v2.0.0.dev21 beta release",
+                    "publishedAt": "2023-09-20T20:58:22Z",
+                    "tagName": "v2.0.0.dev21"
+                },
+                {
+                    "name": "SACCHARIS v2.0.0.dev20 beta release",
+                    "publishedAt": "2023-09-07T23:29:07Z",
+                    "tagName": "v2.0.0.dev20"
+                },
+                {
+                    "name": "SACCHARIS v2.0.0.dev19 beta release",
+                    "publishedAt": "2023-08-23T21:53:32Z",
+                    "tagName": "v2.0.0.dev19"
+                },
+                {
+                    "name": "SACCHARIS v2.0.0.dev18 alpha release",
+                    "publishedAt": "2023-06-14T01:50:16Z",
+                    "tagName": "v2.0.0.dev18"
+                }
+            ]
+        }
+    },
+    "stephaneguindon/phyml": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "Spring 2022",
+                    "publishedAt": "2022-04-08T15:10:55Z",
+                    "tagName": "v3.3.20220408"
+                },
+                {
+                    "name": "Winter 2021",
+                    "publishedAt": "2022-01-01T14:21:50Z",
+                    "tagName": "v3.3.20211231"
+                },
+                {
+                    "name": "Autumn 2021",
+                    "publishedAt": "2021-11-18T13:48:43Z",
+                    "tagName": "v3.3.20211118"
+                },
+                {
+                    "name": "Summer 2020 release",
+                    "publishedAt": "2020-07-14T09:33:32Z",
+                    "tagName": "v3.3.20200621"
+                },
+                {
+                    "name": "Autumn 2019 release",
+                    "publishedAt": "2019-09-09T06:56:14Z",
+                    "tagName": "v3.3.20190909"
+                },
+                {
+                    "name": "Spring 2019 release",
+                    "publishedAt": "2019-04-04T07:14:54Z",
+                    "tagName": "v3.3.20190321"
+                },
+                {
+                    "name": "Summer 2018 release",
+                    "publishedAt": "2018-06-21T14:18:18Z",
+                    "tagName": "v3.3.20180621"
+                }
+            ]
+        }
+    },
+    "torognes/swipe": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "SWIPE 2.1.1",
+                    "publishedAt": "2021-06-29T12:53:46Z",
+                    "tagName": "v2.1.1"
+                },
+                {
+                    "name": "SWIPE 2.1.0",
+                    "publishedAt": "2018-05-04T15:36:14Z",
+                    "tagName": "v2.1.0"
+                },
+                {
+                    "name": "SWIPE version 2.0.12",
+                    "publishedAt": "2015-12-18T10:10:34Z",
+                    "tagName": "v2.0.12"
+                },
+                {
+                    "name": "SWIPE version 2.0.11",
+                    "publishedAt": "2014-06-27T14:42:14Z",
+                    "tagName": "v2.0.11"
+                },
+                {
+                    "name": "SWIPE version 2.0.10",
+                    "publishedAt": "2014-06-25T14:41:13Z",
+                    "tagName": "v2.0.10"
+                },
+                {
+                    "name": "SWIPE version 2.0.9",
+                    "publishedAt": "2014-01-21T11:03:09Z",
+                    "tagName": "v2.0.9"
+                },
+                {
+                    "name": "SWIPE version 2.0.8",
+                    "publishedAt": "2014-01-17T10:02:47Z",
+                    "tagName": "v2.0.8"
+                },
+                {
+                    "name": "SWIPE version 2.0.7",
+                    "publishedAt": "2014-01-21T11:03:48Z",
+                    "tagName": "v2.0.7"
+                }
+            ]
+        }
+    },
+    "treangenlab/komb": {
+        "releases": {
+            "nodes": [
+                {
+                    "name": "KOMB v2.0.0",
+                    "publishedAt": "2023-08-06T17:11:46Z",
+                    "tagName": "v2.0.0"
+                },
+                {
+                    "name": "KombOver PSB'24 submission version",
+                    "publishedAt": "2023-08-06T17:01:30Z",
+                    "tagName": "PSB-24-Submission"
+                }
+            ]
+        }
+    }
+}
